@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\rusev\Desktop\uni shit\Programming 1\Hausaufgaben\HA-9_IvanRusev\Source.c(10,14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rusev\Desktop\uni shit\Programming 1\Hausaufgaben\HA-9_IvanRusev\Source.c(23,9): warning C4129: 'D': unrecognized character escape sequence
+  HA-9_IvanRusev.vcxproj -> C:\Users\rusev\Desktop\uni shit\Programming 1\Hausaufgaben\HA-9_IvanRusev\x64\Debug\HA-9_IvanRusev.exe
